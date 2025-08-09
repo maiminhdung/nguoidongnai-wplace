@@ -1,6 +1,6 @@
 # nguoidongnai-wplace
 Bản vẽ người đồng nai từ anime Shinoko lên wplace.live
-Cách tham gia:
+## Cách tham gia:
 1. Tải ảnh nguoidongnai.jpg ở trên
 2. Sử dụng  [Wplace-BlueMarble](https://github.com/SwingTheVine/Wplace-BlueMarble)
 3. Tiếp theo là đặt ví trị bản mẫu tại đây: [Link](https://wplace.live/?lat=10.899164454895963&lng=106.84819302802734&zoom=16.536703773036002) (Sao cho như hình dưới)
